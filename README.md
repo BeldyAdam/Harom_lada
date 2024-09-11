@@ -10,3 +10,6 @@ Láda feliratok:
 3. Bronzláda: Az aranyláda hazudik!
 
 Szerintem: A bronzláda rejti a kincset, és próbálja elterelni a figyelmet ezzel.
+
+# GUI
+![GUI](https://github.com/user-attachments/assets/01389519-6a30-470e-8efe-e94586dc105f)
